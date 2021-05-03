@@ -19,3 +19,5 @@ npm run build
 ```
 npm run lint
 ```
+
+**[WATCH HERE](https://onblending-test-task.netlify.app/)**
