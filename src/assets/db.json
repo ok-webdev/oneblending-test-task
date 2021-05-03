@@ -1,0 +1,20 @@
+{
+  "39": {
+    "fire/crashes": {
+      "desc": null
+    }
+  },
+  "126": {
+    "fire/display/no-jacks": {
+      "desc": "no jack found"
+    }
+  },
+  "127": {
+    "fire/crashes": {
+      "desc": null
+    },
+    "fire/display/no-jacks": {
+      "desc": "no jack found"
+    }
+  }
+}
