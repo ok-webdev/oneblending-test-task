@@ -23,7 +23,7 @@
       }
     },
     beforeMount () {
-      fetch('https://raw.githubusercontent.com/ok-webdev/fakeserver-db/main/db.json')
+      fetch('https://raw.githubusercontent.com/ok-webdev/oneblending-test-task/main/src/assets/db.json')
         .then(response => response.json())
         .then(data => {
           this.data = {...data};
