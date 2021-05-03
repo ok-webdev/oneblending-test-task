@@ -1,6 +1,8 @@
 <template>
   <section>
     <h2>Crashes list</h2>
+
+    <p class="hidden">{{data}}</p>
     <ul class="table-ul">
       <li v-for="(item, i) in crashTypes" :key="i">
         <ul>
@@ -72,5 +74,8 @@
   }
   .table-ul li {
     margin: 0 1rem;
+  }
+  .hidden {
+    display: none;
   }
 </style>
